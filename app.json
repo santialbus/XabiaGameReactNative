@@ -1,4 +1,5 @@
-{
-  "name": "XabiaGameProject",
-  "displayName": "XabiaGameProject"
+{ 
+	"name": "XabiaGameProject", 
+	"displayName": "XabiaGameProject", 
+	"expo": { "sdkVersion": "18.0.0" } 
 }
